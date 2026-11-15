@@ -24,6 +24,19 @@
     - IEEE Quantum Week
     - BoF
 
+- title: "SC26 Panel: Beyond the Add-On: Absorbing Quantum Into the HPC Ecosystem"
+  url: "/events/2026/sc-panel/"
+  year: "2026"
+  date: "2026-11-19T15:30:00"
+  date_label: "November 19, 2026, 3:30 PM–5:00 PM CST"
+  venue: "SC26, W184bcd"
+  event_type: "Panel"
+  summary: "A panel on integrating quantum resources into HPC scheduling, workflows, and system monitoring, moderated by Amir Shehata with panelists from research laboratories and industry."
+  tags:
+    - SC26
+    - Panel
+    - Quantum-HPC
+
 - title: "SC26: OpenQSE BoF"
   url: "/events/2026/sc-bof/"
   year: "2026"
